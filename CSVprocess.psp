@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <job>
-  <name>CSVprocess &#x28;edc630f&#x29;</name>
+  <name>CSVprocess &#x28;edc630f&#x29; &#x28;93e5fe3&#x29;</name>
   <description>CSV input with secret</description>
   <process_version/>
   <directory>&#x2f;</directory>
   <created_user>-</created_user>
   <created_date>2018&#x2f;01&#x2f;05 16&#x3a;10&#x3a;57.550</created_date>
   <modified_user>-</modified_user>
-  <modified_date>2020&#x2f;11&#x2f;18 19&#x3a;58&#x3a;26.318</modified_date>
+  <modified_date>2020&#x2f;12&#x2f;03 12&#x3a;51&#x3a;39.522</modified_date>
 	<parameters>
       <parameter>
         <name>secret</name>
@@ -361,6 +361,7 @@
       <follow_abort_remote>N</follow_abort_remote>
       <create_parent_folder>N</create_parent_folder>
       <logging_remote_work>N</logging_remote_work>
+      <argument0>test1</argument0>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
